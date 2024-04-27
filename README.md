@@ -1,4 +1,4 @@
-# Simple Python Project
+# Interactive Python Project
 
 This is a simple Python project that demonstrates the usage of modular programming. The project consists of three main files: `main.py`, `art.py`, and `words.py`. The project generates ASCII art and displays random words using these modular components.
 
